@@ -8,6 +8,7 @@ public class Main {
         //it will be my second practice
         // lets se
         // can i do that
+        System.out.println("Hi");
 
 
     }
